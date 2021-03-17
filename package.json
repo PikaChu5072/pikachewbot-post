@@ -1,0 +1,27 @@
+{
+  "name": "bot2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvacord": "^5.1.0",
+    "discord-xp": "^1.1.8",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "jumble-words": "^1.0.1",
+    "mathjs": "^9.3.0",
+    "mongoose": "^5.11.19",
+    "node-fetch": "^2.6.1",
+    "novelcovid": "^3.0.0",
+    "sequelize": "^6.5.0",
+    "sqlite3": "^5.0.2",
+    "weather-js": "^2.0.0"
+  }
+}
